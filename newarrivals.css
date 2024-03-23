@@ -1,0 +1,41 @@
+.cards{
+    display: flex;
+  
+ 
+    width: 100%;
+    
+
+}
+.desc{
+    font-style: normal;
+    font-size: 1.5em;
+   
+}
+h2{
+    font-size:3.2rem ;
+ 
+    margin-top: 9px;
+    margin-left: 10%;
+    
+}
+
+.cards .btn{
+    border-radius: 5%;
+font-style: normal;
+    
+  
+
+   margin-left: 25%; 
+
+  
+
+}
+:hover.btn{
+color: red;
+}
+h1{
+    text-align: center;
+}
+.cards .btn a{
+    text-decoration: none;
+}
